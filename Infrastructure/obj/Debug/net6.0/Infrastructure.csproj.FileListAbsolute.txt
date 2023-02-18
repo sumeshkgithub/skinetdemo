@@ -1,0 +1,17 @@
+C:\DevOpsLearn\skinet\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+C:\DevOpsLearn\skinet\Infrastructure\bin\Debug\net6.0\Infrastructure.runtimeconfig.json
+C:\DevOpsLearn\skinet\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+C:\DevOpsLearn\skinet\Infrastructure\bin\Debug\net6.0\ref\Infrastructure.dll
+C:\DevOpsLearn\skinet\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+C:\DevOpsLearn\skinet\Infrastructure\bin\Debug\net6.0\Core.dll
+C:\DevOpsLearn\skinet\Infrastructure\bin\Debug\net6.0\Core.pdb
+C:\DevOpsLearn\skinet\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+C:\DevOpsLearn\skinet\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevOpsLearn\skinet\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+C:\DevOpsLearn\skinet\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+C:\DevOpsLearn\skinet\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\DevOpsLearn\skinet\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+C:\DevOpsLearn\skinet\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+C:\DevOpsLearn\skinet\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+C:\DevOpsLearn\skinet\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+C:\DevOpsLearn\skinet\Infrastructure\obj\Debug\net6.0\Infrastructure.genruntimeconfig.cache
